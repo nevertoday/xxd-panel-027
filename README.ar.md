@@ -47,11 +47,25 @@ XXD Panel 027 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **مادة حقيقية:** يكشف الضوء الدافئ الناعم الألياف وحافة الضغط والتجويف والدرجة والظل الطبيعي.
 - **حروف عرض:** يصطف عنوان شديد القصر ونص مجهري مع المحور أو أسفل النقش أو حافة الفراغ أو المحيط البنيوي.
 
-## النماذج · قريباً
+## النماذج · من X
 
-يحتفظ المستودع بمجلد [`assets/examples/`](assets/examples/) للأعمال القادمة. لن يُضاف إلا عمل مكتمل بأسلوب 027 ومؤكد من صاحب المشروع؛ ولن تُستخدم منشورات أو صور من أساليب أخرى كعناصر مؤقتة.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
+> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
 
-ستعرض النماذج القادمة قدرة 027 على التكيف فقط، ولن تصبح موضوعاتها أو استعاراتها أو ألوانها أو نصوصها أو نسبها مراجع للتوليد أو قيماً افتراضية.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 027 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 027 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 027 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 027 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 027 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات ومنطق واحد للنقش الورقي
 
