@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-027"
-  short_description: "Create Eastern ivory embossed-paper bas-reliefs."
-  default_prompt: "Use $xxd-panel-027 to press my photograph into a source-bound Eastern museum bas-relief on heavy ivory paper, choosing a source-earned top-down, frontal, slight-top-down, or axial view and using shallow embossing, debossing, fine incision, delicate warm shadows, at most one tiny matte-gold focus, generous paper silence, and native-script exhibition typography; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 027 from its original style brief."
+  default_prompt: "Use $xxd-panel-027; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."

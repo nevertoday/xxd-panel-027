@@ -1,56 +1,79 @@
-# XXD Panel 027 | Eastern Embossed-Paper Bas-Relief Production Prompt
+# XXD Panel 027 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/027-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 027. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for this current task. Lock the principal subject or inseparable relation, silhouette, pose, action, defining openings, functional structure, scale, negative shape, direction, and distance. Preserve at least three source-specific recognition cues. Never borrow a subject, relief structure, gold focus, copy, or composition from old outputs, samples, or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## Source-specific relief map
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Rebuild the subject as shallow relief pressed into heavy ivory, warm-white, or pale paper rather than mechanically reproducing photographic detail. Decide which contour becomes a raised edge, which mass becomes a low plane, which opening becomes a recess, which overlap becomes a height step, which small structure becomes a fine incised line, and which relation becomes a shared relief boundary.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-People retain pose, orientation, clothing mass, and relational distance; animals retain body rhythm and head direction; plants retain growth gesture; architecture retains skyline, axis, and defining openings; objects and vehicles retain functional silhouette and negative shape; landscapes retain a source-specific terrain, horizon, or depth relation.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-Choose top-down, frontal, slight-top-down, or axial extension from the subject's own structure rather than imposing one view on everything. Build the subject with a few broad embossed and debossed levels, then add only the incised lines, edge shadows, and same-tone value shifts required for recognition. Relief height must remain plausible for thick cotton or mould-made paper, never deep carving, stone, plaster sculpture, or a miniature scene.
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-## Museum-display order
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-Read the subject's centre of gravity, contour trajectory, depth order, symmetry, action, and functional axis. Use a calm central axis or a clearly source-earned offset axis, with clear primary/secondary hierarchy and one focal relief. Retain only the environmental contours that genuinely support identity, scale, or depth; never expand them into a busy set.
+### Text generated from the original prompt
 
-Generous ivory, warm-white, cream, or pale-paper space carries stillness and exhibition distance. Recompose relief scale, axis, depth, copy, and safe regions for every device and aspect ratio; never mechanically centre or crop another result.
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-## Tonal paper, soft light, and matte-gold focus
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-Keep field and subject within one pale-paper family. Depth comes from relief height, delicate edge shadow, tiny temperature shifts, and slight value changes—not a multicolour palette. Use soft warm diffuse light to reveal paper fibre, pressed edge, recess, height step, and natural shadow while preserving near-monochrome calm.
+### User-exact text
 
-Only when the source contains one decisive identity or narrative point may that point receive a very small matte-gold line, foil-like detail, or warm-white glow. Gold stays restrained, non-mirrored, and non-ornamental; never spread it broadly or create a second focus.
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-Reject gradient filters, dirty ageing, grey concrete, plaster, porcelain, plastic, glossy laminate, metallic reflection, deep hard shadow, exaggerated bevel, low-poly facets, generic 3D displacement, and cheap luxury packaging.
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-## Exhibition typography
+### No text
 
-Obey the resolved automatic, exact-user, or text-free copy mode and target language or locale. Preserve exact user wording verbatim. In text-free mode render no letter, character, number, gold word, text, or pseudo-text.
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-Automatic copy distils one extremely short title from the source-supported identity, place quality, theme, action, relation, or symbolism. Add zero to three keywords, indexes, or micro-notes only when they genuinely deepen the image. Places, dates, provenance, and factual numbers must be user-supplied or reliably established. Use an aphoristic line only when visibly earned by the source; it must produce insight rather than generic inspiration.
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-Use a natural restrained high-editorial serif or equivalent native to the target writing system, in deep grey or very limited matte gold, lightly printed or debossed. Align it with the central/source axis, directly below the relief, along a whitespace edge, or with one structural contour so it shares the museum order. Reject pasted advertising headlines, faux-classical labels, chunky extrusion, and pseudo-foreign text.
-
-## Mode and acceptance
-
-
-Hard gate: at least three source cues and the principal action or relation; one dominant relief with restrained environmental contour; source-earned viewpoint; physically plausible embossing, debossing, incision, height steps, and delicate edge shadow; ivory/warm-white paper and generous whitespace; no more than one tiny matte-gold focus; soft warm light clearly reveals fibre and relief height; accurate readable type aligned with axis or contour; no origami, colourful papercraft, plaster, porcelain, deep carving, miniature set, ornate gilding, cheap 3D bevel, packaging template, photo fragment, or pseudo-text.
-
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, a displacement map, or a post-composited type overlay.
+```text
+complete verbatim 027-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
