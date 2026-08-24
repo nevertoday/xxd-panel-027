@@ -42,7 +42,18 @@ The source determines whether the relief uses a top-down, frontal, slight-top-do
 
 These samples demonstrate the 027 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 027 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Press the photograph into a quiet Eastern museum bas-relief on ivory paper |
+| **Recognizable signature** | HEAVY IVORY PAPER · EMBOSS AND DEBOSS · FINE INCISION · MATTE-GOLD FOCUS · MUSEUM ORDER |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 A generic “embossed look” easily collapses into a one-click 3D bevel, white plaster sculpture, luxury-packaging texture, or broad gilding until the source photograph becomes a generic icon.
 
@@ -54,7 +65,7 @@ lock identity / silhouette / pose / relation → choose a source-earned view and
 
 If an unrelated photograph could replace the source without materially changing the relief silhouette, height map, view axis, environmental contour, gold focus, or title relation, the result is not 027.
 
-## The 027 visual contract
+## What makes the finished style recognizable
 
 - **Source identity:** at least three specific cues preserve silhouette, pose, action, structure, scale, negative shape, and relation.
 - **Source-earned view:** top-down, frontal, slight-top-down, or axial extension is chosen to preserve identity and spatial relation.
