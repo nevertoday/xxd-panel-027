@@ -22,6 +22,26 @@ XXD Panel 027는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 원본 구조에 따라 부감, 정면, 약한 부감, 축선 확장 중 가장 적합한 시점을 고릅니다. 유백색·따뜻한 흰색·옅은 종이색과 넓은 여백이 중심이며, 결정적인 식별점 하나에만 아주 작은 무광 금빛을 허용합니다. 부드러운 온광이 종이 섬유와 압인 높이를 보여 주고, 글자는 축선·부조 아래·여백 가장자리·구조 윤곽에 맞춥니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
+> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 027 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 027 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 027 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 027 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 027의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 027이 필요한가요
 
 일반적인 ‘부조 스타일’은 원클릭 3D 베벨, 흰 석고상, 고급 포장 압인, 과도한 금박으로 쉽게 무너져 원본이 범용 아이콘이 됩니다.
@@ -44,26 +64,6 @@ XXD Panel 027는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **무광 금빛 초점:** 근거 있는 식별점 하나에만 극소량을 쓰며 넓은 금장식은 금지합니다.
 - **실제 재질:** 부드러운 온광이 종이 섬유, 압인 가장자리, 오목면, 단차와 자연 그림자를 보여 줍니다.
 - **전시 문자:** 극히 짧은 제목과 미세 문자를 축선, 부조 아래, 여백 가장자리, 구조 윤곽에 맞춥니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
-> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 027 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 027 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 027 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 027 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 027의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

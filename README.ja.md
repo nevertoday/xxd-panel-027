@@ -22,6 +22,26 @@ XXD Panel 027 は、Codex と互換 Agent のための画像生成 Skill です�
 
 俯瞰、正面、微俯瞰、軸方向の展開から、主体を最も保てる視点を選びます。乳白、暖白、淡い紙色と広い余白が中心で、決定的な識別点だけにごく小さな艶消し金を使えます。柔らかな暖光が紙繊維と圧印の高さを示し、文字は軸、浮彫の下、余白の縁、構造輪郭へ揃えます。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
+> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 027 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 027 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 027 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 027 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 027 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 027 が必要なのか
 
 一般的な「浮彫風」は、ワンクリックの3Dベベル、白い石膏像、高級包装の型押し、大量の金装飾へ崩れ、元写真が汎用アイコンになりがちです。
@@ -44,26 +64,6 @@ XXD Panel 027 は、Codex と互換 Agent のための画像生成 Skill です�
 - **艶消し金の焦点：** 根拠ある識別点一つだけに極少量を使い、広い金装飾はしません。
 - **実在する素材：** 柔らかな暖光が紙繊維、圧印縁、凹み、段差、自然な影を明確にします。
 - **展示文字：** ごく短い題と小文字を軸、浮彫の下、余白縁、構造輪郭へ揃えます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
-> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 027 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 027 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 027 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 027 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 027 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

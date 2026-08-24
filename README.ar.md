@@ -24,6 +24,26 @@ XXD Panel 027 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 يختار المصدر منظراً علوياً أو أمامياً أو علوياً خفيفاً أو امتداداً محورياً. يهيمن العاجي والأبيض الدافئ والورق الفاتح والفراغ الواسع، ولا تُمنح لمسة ذهبية مطفأة إلا لنقطة تعريف حاسمة واحدة. يكشف الضوء الدافئ الناعم الألياف وارتفاع الضغط، ويصطف النص مع المحور أو أسفل النقش أو حافة الفراغ أو محيط بنيوي.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
+> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 027 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 027 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 027 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 027 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 027 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 027؟
 
 يتحول «أسلوب النقش» العام بسهولة إلى حافة ثلاثية الأبعاد جاهزة أو تمثال جبسي أبيض أو زخرفة تغليف فاخرة أو تذهيب واسع، حتى يصبح المصدر أيقونة عامة.
@@ -46,26 +66,6 @@ XXD Panel 027 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **بؤرة ذهبية مطفأة:** تُستخدم كمية ضئيلة في نقطة تعريف واحدة ذات سند، من دون تذهيب واسع.
 - **مادة حقيقية:** يكشف الضوء الدافئ الناعم الألياف وحافة الضغط والتجويف والدرجة والظل الطبيعي.
 - **حروف عرض:** يصطف عنوان شديد القصر ونص مجهري مع المحور أو أسفل النقش أو حافة الفراغ أو المحيط البنيوي.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
-> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 027 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 027 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 027 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 027 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 027 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

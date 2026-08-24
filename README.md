@@ -22,6 +22,26 @@ XXD Panel 027 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 视角从主体结构中选择俯瞰、正视、微俯视或轴线延展，不给所有题材套同一模板。画面以乳白、暖白或浅纸色和大面积留白为主，只在源图最关键的识别点加入极少量哑金。柔和暖光让纸纤维、压印高度与细腻阴影成立；文字以深灰或克制金色沿轴线、主体下方、留白边缘或结构轮廓对齐。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
+> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 027 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 027 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 027 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 027 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 027 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 027
 
 普通“浮雕风”很容易退化成一键 3D 倒角、白色石膏像、豪华包装压纹或大面积镀金，源照片只剩一个通用图标。
@@ -44,26 +64,6 @@ XXD Panel 027 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **哑金焦点：** 最多一个源图有依据的关键局部可用极少量哑金或暖白光强化，绝不大面积铺金。
 - **真实材质：** 柔和暖光清楚表现纸纤维、压印边缘、凹槽、阶差与细腻自然影。
 - **展览文字：** 一个极短标题和少量微字沿轴线、浮雕底部、留白边缘或结构轮廓对齐。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
-> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 027 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 027 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 027 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 027 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 027 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 
