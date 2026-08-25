@@ -16,16 +16,7 @@
 
 </div>
 
-> HEAVY IVORY PAPER · EMBOSS AND DEBOSS · FINE INCISION · MATTE-GOLD FOCUS · MUSEUM ORDER
-
-XXD Panel 027 is an image-generation Skill for Codex and compatible agents. It preserves identity, silhouette, pose, and narrative relation, then rebuilds the source as an Eastern bas-relief pressed into heavy ivory paper. Raised edges, recesses, fine incision, height steps, and delicate shadows keep it recognisable without mechanically copying photographic detail.
-
-The source determines whether the relief uses a top-down, frontal, slight-top-down, or axial view. Ivory, warm white, or pale paper and generous silence dominate; only one decisive recognition point may receive a tiny matte-gold accent. Soft warm light reveals fibre and pressed height. Deep-grey or restrained gold type aligns with the source axis, relief base, whitespace edge, or one structural contour.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
-> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ The source determines whether the relief uses a top-down, frontal, slight-top-do
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
+> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 027 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> HEAVY IVORY PAPER · EMBOSS AND DEBOSS · FINE INCISION · MATTE-GOLD FOCUS · MUSEUM ORDER
+
+XXD Panel 027 is an image-generation Skill for Codex and compatible agents. It preserves identity, silhouette, pose, and narrative relation, then rebuilds the source as an Eastern bas-relief pressed into heavy ivory paper. Raised edges, recesses, fine incision, height steps, and delicate shadows keep it recognisable without mechanically copying photographic detail.
+
+The source determines whether the relief uses a top-down, frontal, slight-top-down, or axial view. Ivory, warm white, or pale paper and generous silence dominate; only one decisive recognition point may receive a tiny matte-gold accent. Soft warm light reveals fibre and pressed height. Deep-grey or restrained gold type aligns with the source axis, relief base, whitespace edge, or one structural contour.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 027 right for you?
