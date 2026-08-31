@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 027
+# 🦁 XXD Panel 027｜종이 위 부조
 
 ### 사진을 유백색 종이에 새긴 고요한 동양 박물관 부조로
 

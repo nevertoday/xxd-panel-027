@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 027
+# 🦁 XXD Panel 027｜Relief on Paper
 
 ### Press the photograph into a quiet Eastern museum bas-relief on ivory paper
 

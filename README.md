@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 027
+# 🦁 XXD Panel 027｜纸上浮雕
 
 ### 把照片压印成乳白纸面上的东方博物馆浅浮雕
 

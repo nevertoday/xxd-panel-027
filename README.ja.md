@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 027
+# 🦁 XXD Panel 027｜紙上のレリーフ
 
 ### 写真を、乳白紙に静かに刻まれた東洋の博物館レリーフへ
 
