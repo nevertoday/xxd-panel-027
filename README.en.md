@@ -23,6 +23,8 @@
 
 ## 16:9 Left–Right Samples
 
+Four independent sources on complete 16:9 canvases: reality left, this Panel's design right, exact 50:50. English copy is generated from each photograph.
+
 <table>
   <tr>
     <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 027 Sample 5"></td>
@@ -36,7 +38,7 @@
 
 ## 3:4 Top–Bottom Samples
 
-These four works reuse the same four independent sources as the 16:9 set above, now regenerated as complete 3:4 top–bottom canvases. The original photograph remains above; the lower design follows Panel 027's original brief. English copy is generated only from each photograph's content, mood, or implication, and every result was individually reviewed.
+Four further independent sources, different from the 16:9 set, regenerated as complete 3:4 top–bottom canvases. The original photograph remains above; the lower design follows this Panel's original brief.
 
 <table>
   <tr>
@@ -48,21 +50,6 @@ These four works reuse the same four independent sources as the 16:9 set above, 
     <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 027 additional top-bottom sample 4"></td>
   </tr>
 </table>
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090444626285261046) · 2026-08-20<br>
-> GPT2 x 浮雕 x 金 x 高级 x 美学提示词 x VOL.027
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090444626285261046">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 027 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
-
-> HEAVY IVORY PAPER · EMBOSS AND DEBOSS · FINE INCISION · MATTE-GOLD FOCUS · MUSEUM ORDER
-
-XXD Panel 027 is an image-generation Skill for Codex and compatible agents. It preserves identity, silhouette, pose, and narrative relation, then rebuilds the source as an Eastern bas-relief pressed into heavy ivory paper. Raised edges, recesses, fine incision, height steps, and delicate shadows keep it recognisable without mechanically copying photographic detail.
-
-The source determines whether the relief uses a top-down, frontal, slight-top-down, or axial view. Ivory, warm white, or pale paper and generous silence dominate; only one decisive recognition point may receive a tiny matte-gold accent. Soft warm light reveals fibre and pressed height. Deep-grey or restrained gold type aligns with the source axis, relief base, whitespace edge, or one structural contour.
-
-<!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
 When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
